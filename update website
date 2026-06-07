@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>مدينة سِتّي</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Cairo',sans-serif;
+}
+
+body{
+direction:rtl;
+color:white;
+background:
+radial-gradient(circle at top,#5865F2 0%,#1a1a2e 30%,#0a0a0a 100%);
+min-height:100vh;
+}
+
+header{
+text-align:center;
+padding:80px 20px 40px;
+}
+
+h1{
+font-size:65px;
+font-weight:900;
+color:white;
+text-shadow:
+0 0 15px #5865F2,
+0 0 35px #5865F2,
+0 0 60px #5865F2;
+margin-bottom:15px;
+}
+
+p{
+font-size:20px;
+color:#d8d8d8;
+}
+
+.container{
+max-width:950px;
+margin:auto;
+padding:20px;
+}
+
+.btn{
+display:inline-block;
+margin:12px;
+padding:18px 45px;
+font-size:20px;
+font-weight:800;
+color:white;
+text-decoration:none;
+border-radius:16px;
+background:linear-gradient(135deg,#5865F2,#6f7cff);
+box-shadow:
+0 0 20px rgba(88,101,242,.5),
+0 0 40px rgba(88,101,242,.3);
+transition:.35s;
+min-width:320px;
+}
+
+.btn:hover{
+transform:translateY(-5px) scale(1.03);
+box-shadow:
+0 0 30px rgba(88,101,242,.8),
+0 0 60px rgba(88,101,242,.6);
+}
+
+.owner{
+background:linear-gradient(
+135deg,
+#b8860b,
+#d4a017,
+#ffcc33
+);
+
+color:#111;
+font-weight:900;
+
+box-shadow:
+0 0 25px rgba(255,215,0,.7),
+0 0 60px rgba(184,134,11,.6);
+
+border:2px solid rgba(255,215,0,.4);
+}
+
+.owner:hover{
+transform:translateY(-5px) scale(1.04);
+
+box-shadow:
+0 0 40px rgba(255,215,0,.9),
+0 0 90px rgba(184,134,11,.8);
+}
+
+.box{
+background:rgba(255,255,255,.05);
+backdrop-filter:blur(15px);
+border:1px solid rgba(255,255,255,.08);
+padding:30px;
+border-radius:25px;
+margin-top:30px;
+box-shadow:0 0 25px rgba(88,101,242,.2);
+}
+
+.box h2{
+font-size:32px;
+margin-bottom:20px;
+color:#8d98ff;
+}
+
+ul{
+list-style:none;
+padding:0;
+}
+
+ul li{
+padding:12px;
+margin:8px 0;
+background:rgba(255,255,255,.03);
+border-radius:12px;
+transition:.3s;
+}
+
+ul li:hover{
+background:rgba(88,101,242,.15);
+transform:translateX(-5px);
+}
+
+.box p{
+margin-top:20px;
+text-align:center;
+font-weight:700;
+}
+
+footer{
+text-align:center;
+padding:30px;
+margin-top:40px;
+color:#888;
+font-size:15px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h1>🔥 مدينة سِتّي</h1>
+
+<p>أفضل سيرفر عربي للألعاب + الرول بلاي + التفاعل</p>
+
+<br>
+
+<a class="btn owner" href="https://discord.com/users/1492290766419005634" target="_blank">
+👑 الأونر | دِس
+</a>
+
+<br>
+
+<a class="btn owner" href="https://tiktok.com/@ryx.501" target="_blank">
+👑 الأونر | تِك
+</a>
+
+<br>
+
+<a class="btn" href="https://discord.gg/Jpb5cxj7r" target="_blank">
+سيرفر مَدِينَة سِتّي
+</a>
+
+<br>
+
+<a class="btn" href="https://discord.gg/GvdNJAxDN" target="_blank">
+سيرفر مَدِينَة سِتّي ⟸ الاحتياطي
+</a>
+
+</header>
+
+<div class="container">
+
+<div class="box">
+
+<h2>📜 قوانين السيرفر</h2>
+
+<ul>
+<li>1- الاحترام واجب للجميع.</li>
+<li>2- يمنع السب، العنصرية، أو الاستفزاز.</li>
+<li>3- ممنوع نشر أي روابط أو إعلانات بدون إذن.</li>
+<li>4- يمنع التخريب أو الإزعاج داخل الرومات.</li>
+<li>5- عدم انتحال شخصية الإدارة أو الأعضاء.</li>
+<li>6- يمنع السبام أو التكرار المزعج.</li>
+<li>7- الالتزام بتعليمات الإدارة.</li>
+<li>8- أي مخالفة تعرضك للتحذير أو الباند.</li>
+<li>9- ممنوع المحتوى الغير لائق أو المقاطع السيئة.</li>
+<li>10- يمنع طلب الرتب أو الإزعاج عليها.</li>
+<li>11- ممنوع التهديد أو الابتزاز بأي شكل.</li>
+<li>12- احترام خصوصية الأعضاء وعدم نشر معلوماتهم.</li>
+<li>13- يمنع تشغيل الأصوات المزعجة في الرومات الصوتية.</li>
+<li>14- يمنع إثارة المشاكل أو التحريض بين الأعضاء.</li>
+<li>15- يمنع تقليد أسماء أو صور الإدارة.</li>
+<li>16- استخدام الرومات في الشيء المخصص لها فقط.</li>
+<li>17- ممنوع نشر الحسابات أو البيع والشراء.</li>
+<li>18- يمنع استغلال الثغرات أو التخريب بالسيرفر.</li>
+<li>19- الإدارة لها الحق باتخاذ الإجراء المناسب.</li>
+</ul>
+
+<p>✦ خلك محترم واستمتع بوقتك داخل السيرفر ✦</p>
+
+</div>
+
+</div>
+
+<footer>
+© مَدِينَة سِتّي - جميع الحقوق محفوظة
+</footer>
+
+</body>
+</html>
